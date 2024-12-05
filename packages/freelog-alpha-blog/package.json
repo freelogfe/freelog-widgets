@@ -34,7 +34,7 @@
     "@freelog/freelog-markdown-parser": "^0.1.11",
     "highlight.js": "^9.15.8",
     "install": "^0.13.0",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "moment": "^2.24.0",
     "npm": "^6.10.2",
     "vue": "^2.5.16",
